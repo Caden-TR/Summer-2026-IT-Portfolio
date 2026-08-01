@@ -124,10 +124,29 @@ Hardware:
 
 | Project | Description | Status |
 |---|---|---|
-| Week 1 | Network Traffic Analysis | Completed |
+| Week 1 | Network Traffic Analysis | Completed - Evidence being expanded |
 | Week 2 | Enterprise Network Design | Planned |
 | Week 3 | Secure Network Infrastructure | Planned |
 | Week 4 | Linux Hardening | Planned |
+
+---
+
+# Portfolio Sections
+
+## Main Projects
+
+- [Week 1 - Network Traffic Analysis](./Week-1-Network-Traffic-Analysis)
+- [Week 2 - Enterprise Network Design](./Week-2-Enterprise-Network-Design)
+- [Week 3 - Secure Network Infrastructure](./Week-3-Secure-Network-Infrastructure)
+- [Week 4 - Linux Hardening](./Week-4-Linux-Hardening)
+
+## Supporting Documentation
+
+- [Lab Environment](./Documentation/Lab-Environment.md)
+
+## Side Projects
+
+- [Portable Cyber Security Lab](./Side%20Projects/Portable-Cyber-Security-Lab)
 
 ---
 
@@ -142,6 +161,18 @@ Each project includes:
 - Testing results
 - Troubleshooting notes
 - Lessons learned
+
+---
+
+# Current Focus
+
+Currently developing:
+
+- Enterprise network design skills
+- Secure infrastructure concepts
+- Linux system administration
+- Cyber security documentation practices
+- Practical troubleshooting skills
 
 ---
 
