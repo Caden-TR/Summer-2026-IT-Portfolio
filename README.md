@@ -1,131 +1,156 @@
 # Summer 2026 IT Portfolio
 
-A collection of practical IT projects, technical labs, and learning evidence completed during my Summer 2026 development plan.
+## About This Portfolio
 
-The portfolio focuses on developing practical skills in networking, infrastructure, cyber security, Linux administration, and automation.
+This repository documents my development of practical IT, networking, Linux administration and cyber security skills.
+
+The portfolio focuses on hands-on projects involving infrastructure design, network analysis, system administration, security principles and automation.
+
+The goal is to demonstrate practical technical ability for future Cyber Security and Infrastructure apprenticeship opportunities.
 
 ---
 
-# Focus Areas
+# Lab Environment
+
+## Primary Development Machine
+
+**Device:** Desktop PC
+
+Purpose:
+- Main development workstation
+- Programming projects
+- Portfolio creation
+- Virtual machines
+- Testing and documentation
+
+Hardware:
+- AMD Ryzen 5 3600
+- 32GB RAM
+- SSD storage
+- Dedicated graphics card
+
+---
+
+## Portable Lab Device
+
+**Device:** Dell Latitude E6320
+
+Operating System:
+- Linux Mint 22.3 Xfce
+
+Purpose:
+- Linux administration practice
+- Networking labs
+- Cyber security exercises
+- Portable troubleshooting environment
+
+Hardware:
+- Intel Core i5-2540M
+- 8GB RAM
+- SSD storage
+- Intel HD Graphics 3000
+
+---
+
+# Skills Demonstrated
 
 ## Networking
-- Network design and configuration
-- Cisco Packet Tracer labs
-- IP addressing and subnetting
-- Switching and routing fundamentals
-- VLANs and network segmentation
-- Troubleshooting network issues
 
-## Linux & System Administration
-- Linux command line
-- User and permission management
-- System administration tasks
-- Security hardening practices
+- TCP/IP fundamentals
+- Ethernet frames
+- MAC addressing
+- Switching concepts
+- Network troubleshooting
+- Packet analysis
+- Cisco Packet Tracer simulations
+- Wireshark analysis
+
+## Linux Administration
+
+- Linux installation and configuration
+- Command-line administration
+- System monitoring
+- Package management
+- Permissions and security basics
 
 ## Cyber Security
+
 - Network traffic analysis
 - Security principles
-- Access control
-- Defensive security practices
-- Security monitoring
+- Defensive security concepts
+- Secure configuration practices
+- Security tooling
 
-## Python & Automation
+## Programming
+
 - Python scripting
-- Infrastructure automation
-- Log analysis
-- Problem-solving projects
+- Automation
+- Git version control
+- Technical documentation
+
+---
+
+# Tools & Technologies
+
+## Networking
+
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- TCP/IP tools
+
+## Development
+
+- Visual Studio Code
+- Python
+- Git
+- GitHub
+
+## Linux
+
+- Linux Mint
+- Bash
+- System monitoring tools
+
+## Virtualisation
+
+- VirtualBox
+- Linux virtual machines
+- Windows Server lab (planned)
 
 ---
 
 # Projects
 
-## Week 1 — Network Traffic Analysis
-
-Topics covered:
-- Networking fundamentals
-- LAN/WAN concepts
-- Switching and MAC addresses
-- IP addressing and subnetting
-- ARP
-- Routing fundamentals
-- OSI and TCP/IP models
-
-Practical evidence:
-- Cisco Packet Tracer LAN design
-- Wireshark traffic analysis
-- DNS packet analysis
-- TCP handshake analysis
-- Network troubleshooting exercise
-
-Status:
-In Progress
+| Project | Description | Status |
+|---|---|---|
+| Week 1 | Network Traffic Analysis | Completed |
+| Week 2 | Enterprise Network Design | Planned |
+| Week 3 | Secure Network Infrastructure | Planned |
+| Week 4 | Linux Hardening | Planned |
 
 ---
 
-## Week 2 — Enterprise Network Design
+# Documentation Approach
 
-Planned:
+Each project includes:
 
-- VLAN implementation
-- Network segmentation
-- VLSM addressing
-- Trunking
-- Inter-VLAN routing
-
----
-
-## Week 3 — Secure Network Infrastructure
-
-Planned:
-
-- Routing configuration
-- ACL implementation
-- Access control
-- Network security testing
+- Project objectives
+- Implementation details
+- Configuration steps
+- Screenshots
+- Testing results
+- Troubleshooting notes
+- Lessons learned
 
 ---
 
-## Week 4 — Linux Server Hardening
+# Future Development
 
-Planned:
+Planned projects:
 
-- User management
-- Permissions
-- SSH security
-- Firewall configuration
-- System hardening
-
----
-
-## Week 5 — Infrastructure Automation
-
-Planned:
-
-- Python automation
-- Network backup tools
-- Security log analysis
-- Threat intelligence
-
----
-
-# Tools Used
-
-- Cisco Packet Tracer
-- Wireshark
-- Linux
-- Visual Studio Code
-- Python
-- Git & GitHub
-
----
-
-# Progress
-
-Started:
-July 2026
-
-Current Progress:
-Week 1 — Networking Foundations & Traffic Analysis
-
-Goal:
-Build practical evidence demonstrating networking, cyber security, infrastructure, and automation skills for future IT apprenticeship applications.
+- Active Directory and Windows Server lab
+- Linux security hardening
+- Python automation scripts
+- Advanced networking scenarios
+- Cyber security practical exercises
