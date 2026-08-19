@@ -118,18 +118,14 @@ Hardware:
 - Linux virtual machines
 - Windows Server lab (planned)
 
----
-
 # Projects
 
 | Project | Description | Status |
 |---|---|---|
-| Week 1 | Network Traffic Analysis | Completed - Documentation review planned |
+| Week 1 | Network Traffic Analysis | Completed - Evidence being expanded |
 | Week 2 | Enterprise Network Design | Completed |
-| Week 3 | Secure Network Infrastructure | Planned |
+| Week 3 | Secure Network Infrastructure | Completed |
 | Week 4 | Linux Hardening | Planned |
-
----
 
 # Portfolio Sections
 
