@@ -125,7 +125,7 @@ Hardware:
 | Week 1 | Network Traffic Analysis | Completed - Evidence being expanded |
 | Week 2 | Enterprise Network Design | Completed |
 | Week 3 | Secure Network Infrastructure | Completed |
-| Week 4 | Linux Hardening | Planned |
+| Week 4 | Linux Hardening | Completed |
 
 # Portfolio Sections
 
